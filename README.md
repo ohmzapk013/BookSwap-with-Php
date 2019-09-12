@@ -1,7 +1,7 @@
 # BookSwap-with-Php
-This is a php coded system that acts as a basic backbone to a book swapping kind of system where we have functionalities such as :  add book
-      borrow book
-      swap book
+This is a php coded system that acts as a basic backbone to a book swapping kind of system where we have functionalities such as :  add book,
+      borrow book,
+      swap book,
       alerts
 and also it includes the basic login/register functions.
 
